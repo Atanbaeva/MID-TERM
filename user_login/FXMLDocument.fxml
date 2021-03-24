@@ -36,7 +36,7 @@
                </font>
             </Button>
             <PointLight color="CHARTREUSE" lightOn="true" />
-            <Button mnemonicParsing="false" onMouseClicked="#page3" prefHeight="41.0" prefWidth="120.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 3px 0px;" text="SING UP" textFill="WHITE">
+            <Button mnemonicParsing="false" onMouseClicked="#page3" prefHeight="41.0" prefWidth="120.0" style="-fx-background-color: transparent; -fx-border-color: white; -fx-border-width: 0px 0px 3px 0px;" text="SING IN" textFill="WHITE">
                <font>
                   <Font name="Onyx" size="24.0" />
                </font>
