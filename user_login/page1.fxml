@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="500.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="user_login.FXMLDocumentController">
+   <padding>
+      <Insets bottom="5.0" left="5.0" right="5.0" top="5.0" />
+   </padding>
+   <children>
+      <Text layoutX="14.0" layoutY="87.0" strokeType="OUTSIDE" strokeWidth="0.0" text="The Ala-Too International University was established as the International Atatürk-Alatoo University in 1996 by the Sebat Educational Foundation which promotes and follows the tenets of Islam espoused by Fethullah Gülen.[3]In the wake of the 2016 Turkish coup d'état attempt, which the Turkish government blames on Gülen, the administration of Turkish president Recep Tayyip Erdoğan demanded that Kyrgyzstan close down institutions affiliated with the Gülen movement.[4] However, the Kyrgyz government refused to comply with Ankara's demands.[5] In February 2017, the Turkish government announced that diplomas issued by the Ala-Too International University would no longer be valid in Turkey.[6]" wrappingWidth="263.13671875">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Text>
+      <Label layoutX="83.0" layoutY="29.0" text="Ala-Too International University">
+         <font>
+            <Font name="Andalus" size="28.0" />
+         </font>
+      </Label>
+      <ImageView fitHeight="284.0" fitWidth="200.0" layoutX="286.0" layoutY="87.0">
+         <image>
+            <Image url="@Building_B_of_IAAU.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
